@@ -27,7 +27,7 @@ Open Source Projects dealing with:
 - [Personal Email](mailto:mbuguarufus@gmail.com)
 
 ## ⚡ Fun fact:
-I used to sing in the choir, at a regster I'm not sure I can still hit. Plus I own a dusty keyboard.
+I used to sing in the choir, at a register I'm not sure I can still hit. Plus I own a dusty keyboard.
 
 <!--
 **RufusMbugua/rufusmbugua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
