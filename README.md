@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 ## 🔭 I’m currently working on
-I just started at Github as a Partner Engineer. Pretty excited about that.
-
-I'm working on a cool package tracking app for @Ivy-Tech-Labs
+I've been a Partner Operations Engineer at GitHub for the past 2 years.
 
 ## 🌱 I’m currently learning
 I'm pushing through my MBA Dissertation, just got authorization to collect data.
