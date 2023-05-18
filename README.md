@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 🔭 I’m currently working on
-I've been a Software Engineering Lead at Focused.com.
+I've been a Software Engineering Lead at Focused.com for the past 5 months.
 
 ## 🌱 I’m currently learning
 I completed my MBA and I'm now working on data tooling an visualization.
