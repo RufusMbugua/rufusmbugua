@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 ## 🔭 I’m currently working on
-I've been a Partner Operations Engineer at GitHub for the past 2 years.
+I've been a Software Engineering Lead at Focused.com.
 
 ## 🌱 I’m currently learning
-I'm pushing through my MBA Dissertation, just got authorization to collect data.
+I completed my MBA and I'm now working on data tooling an visualization.
 
 ## 👯 I’m looking to collaborate on
 Open Source Projects dealing with: 
